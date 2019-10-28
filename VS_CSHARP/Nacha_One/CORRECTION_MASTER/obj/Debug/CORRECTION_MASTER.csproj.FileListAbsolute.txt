@@ -1,0 +1,16 @@
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\bin\Debug\CORRECTION_MASTER.exe.config
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\bin\Debug\CORRECTION_MASTER.exe
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\bin\Debug\CORRECTION_MASTER.pdb
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.FORMS.ACCESS_RECORD.resources
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.FORMS.ENTRY_FORM.resources
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.csproj.GenerateResource.cache
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.csproj.CoreCompileInputs.cache
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.exe
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.pdb
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.Landing_Page.resources
+C:\Local_Code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\bin\Debug\PERIPHERALS\ACH_EDITOR_.NET.exe
+C:\Local_Code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\bin\Debug\PERIPHERALS\ACH_LIBRARY.dll
+C:\Local_Code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\bin\Debug\PERIPHERALS\ACH_EDITOR_.NET.exe.config
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.FORMS.ABOUT_NACHA.resources
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.FORMS.NACHA_TO_XL.resources
+C:\Local_code\repos\NACHA_ONE\correction_master\Nacha_One\CORRECTION_MASTER\obj\Debug\CORRECTION_MASTER.csprojAssemblyReference.cache

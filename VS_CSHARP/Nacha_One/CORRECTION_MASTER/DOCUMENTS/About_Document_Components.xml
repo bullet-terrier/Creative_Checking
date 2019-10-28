@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- About document components to be mapped into the output. -->
+<about>
+  <title>NACHA ONE FILE PROCESSOR</title>
+  <body>
+    
+  </body>
+  <help>
+    This utility can consolidate NACHA batches within one file,
+    edit individual lines, and correct invalid batch hash, 
+    credit/debit amounts, and remove incorrect records.
+    
+    Updates, information, and bug reporting can be found at:
+    https://github.com/bullet-terrier/Creative Checking
+    
+  </help>
+  <version>
+    1.2.2
+  </version>
+  <copyright>2019 Benjamin Tiernan</copyright>
+</about>

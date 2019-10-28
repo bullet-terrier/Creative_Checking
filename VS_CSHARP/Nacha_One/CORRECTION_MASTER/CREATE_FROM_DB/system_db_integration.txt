@@ -1,0 +1,4 @@
+﻿We're building a unit that will provide an integration to varying databases to automate the construction of EFT iles.
+Not going to work on building this immediately - but I will work on producing a unit to parse and create the header fnctions.
+
+Looks like I'll be able to make use of some limited polymorphism to handle these as an implementation...
